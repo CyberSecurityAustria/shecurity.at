@@ -1,0 +1,5 @@
+baseURL = 'https://shecurity.at/'
+languageCode = 'de-at'
+title = 'Shecurity'
+
+buildFuture = true
